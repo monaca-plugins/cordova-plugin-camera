@@ -16,6 +16,11 @@
        specific language governing permissions and limitations
        under the License.
 */
+
+/*
+* Modifications copyright (C) 2023 Asial Corporation.
+*/
+
 package org.apache.cordova.camera;
 
 import android.Manifest;
